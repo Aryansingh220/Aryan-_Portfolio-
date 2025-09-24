@@ -11,7 +11,7 @@ This site showcases my skills, projects, and achievements as a Data Analyst. It 
 
 This portfolio highlights:
 
-* About Me – Background and career goals
+* About Me – Background and career goal
 
 * Skills – Python, SQL, Excel, Tableau, Power BI
 
@@ -19,20 +19,20 @@ This portfolio highlights:
 
 * Resume – Downloadable version of my Resume 
 
-Contact – Easy ways to connect with me
+* Contact – Easy ways to connect with me
 
 ⚙️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+* Frontend: HTML, CSS, JavaScript
 
-Hosting: GitHub Pages
+* Hosting: GitHub Pages
 
 📬 Connect with Me
 
-📧 Email: your.email@example.com
+📧 Email: singharyan7369@example.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/aryansingh7396/
 
-🖼️ Behance: Your Behance Profile
 
-🐙 GitHub: Your GitHub Profile
+
+
